@@ -1,0 +1,8 @@
+# ninja log v5
+1	1633	0	src/sap.o	8ee637e568b77770
+23	1704	0	src/helloaccessory.o	611a65716ca09daa
+1706	2236	0	org.tizen.helloaccessoryprovider	c32d4028d29f950c
+11	1021	0	src/helloaccessory.o	e87c2dbf25d8f719
+0	37	0	clean_sa	ed4b7ee576e96402
+37	51	0	clean	d59b6dac04fa9b5d
+13	1004	0	src/helloaccessory.o	e87c2dbf25d8f719
